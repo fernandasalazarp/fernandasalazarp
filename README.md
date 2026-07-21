@@ -18,4 +18,4 @@ I am interested in learning how programming, data analysis and artificial intell
 To integrate medicine, genetics and computational sciences to contribute to biomedical research and precision medicine.
 
 ## 📫 Connect with me
-www.linkedin.com/in/ mfernandasalazarp
+www.linkedin.com/in/mfernandasalazarp
