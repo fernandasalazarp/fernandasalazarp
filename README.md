@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**fernandasalazarp/fernandasalazarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **María Fernanda Salazar Plascencia**, a Medical Student at the University of Guadalajara.
 
-Here are some ideas to get you started:
+## 🩺 About me
+I am passionate about biomedical research, particularly genetics, epigenetics and bioinformatics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in learning how programming, data analysis and artificial intelligence can be applied to answer biomedical research questions and contribute to more precise, evidence-based medicine.
+
+## 🌱 Currently learning
+- R programming
+- Python
+- Bioinformatics
+- Data analysis
+- Machine learning for healthcare
+
+## 🎯 My goal
+To integrate medicine, genetics and computational sciences to contribute to biomedical research and precision medicine.
+
+## 📫 Connect with me
+www.linkedin.com/in/ mfernandasalazarp
